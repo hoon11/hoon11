@@ -1,16 +1,33 @@
-## Hi there 👋
+<!-- Profile README -->
 
-<!--
-**hoon11/hoon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm jaehoon 👋</h1>
 
-Here are some ideas to get you started:
+Frontend Engineer based in Japan • Angular / TypeScript specialist  
+Open to **global remote** roles (frontend or JS full-stack).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Now**
+- Building a voice-feedback side project (pitch/formant analysis & simple UI)
+- Preparing for remote interviews (EN Q&A, daily speaking)
+
+**Strengths**
+- Reliable and precise coding style (Angular/TS)
+- Documentation-first, async collaboration • Clear written comms
+- Strong ownership and consistency, even under high-pressure projects
+- Proactive communication across teams and timezones
+
+**Selected Work**
+- Voice Feedback Lab — WIP, UI + simple analysis (link coming soon)
+- OSS contribution: MDN Web Docs (link coming soon)
+
+**Tech**
+- Frontend: Angular, TypeScript (primary), React/Vue (experienced with)
+- Backend: Node.js, REST, SQL
+- Tools: GitHub Actions, Jest/Testing Library
+- Languages: Korean (native), Japanese (business), English (intermediate+)
+
+**Contact**
+- Email: jhoonen@gmail.com
+- Timezone: JST (UTC+9)
+
+---
+_Polished UIs • Async-friendly • Global mindset_
