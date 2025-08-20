@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1>Hi, I'm jaehoon 👋</h1>
+<h1>Hi, I'm Jaehoon 👋</h1>
 
 Frontend Engineer based in Japan • Angular / TypeScript specialist  
 Open to **global remote** roles (frontend or JS full-stack).
