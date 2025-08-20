@@ -7,7 +7,7 @@ Open to **global remote** roles (frontend or JS full-stack).
 
 **Now**
 - Building a voice-feedback side project (pitch/formant analysis & simple UI)
-- Preparing for remote interviews (EN Q&A, daily speaking)
+- Sharpening English communication & preparing for remote interviews
 
 **Strengths**
 - Reliable and precise coding style (Angular/TS)
